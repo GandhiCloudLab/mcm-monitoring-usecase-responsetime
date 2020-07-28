@@ -13,10 +13,9 @@ An incident about, Wealthcare UI responding slow, is created in the Multi-cloud 
 
 Now SRE is going to analyze and resolve the incident, by using the events, generated from Golden Signals of the Application Runtime.
 
-Here is the usecase and incident handling flow.
+Here is the usecase.
 
 <img src="images/30-response-2.png">
-
 
 ## Note
 
