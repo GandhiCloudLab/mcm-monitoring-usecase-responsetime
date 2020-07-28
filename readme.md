@@ -71,9 +71,13 @@ There is an incident about, Wealthcare UI, responding slow
 <img src="images/01-responsetime-1.png">
 
 Two  events  are  associated with this incident.
+
 It is in, Assigned state.
+
 It is assigned, to wealthcare group.
+
 Lets click on Investigate, to do the analysis.
+
 It opens up the incident detail.
 
 ## Incident Detail
