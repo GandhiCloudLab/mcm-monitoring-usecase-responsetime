@@ -1,11 +1,11 @@
-# MCM Monitoring usecase - Wealthcare UI responding slow
+# MCM Monitoring use case - Wealthcare UI responding slow
 
 This document explains about how  SRE  is going to analyze, and resolve an Incident, using MCM monitoring. 
 
 <img src="images/30-response-1.png">
 
 
-## Usecase
+## Use case
 
 The Web user interface of the `Wealthcare application is becoming very slow`.
 
@@ -13,22 +13,22 @@ An incident about, Wealthcare UI responding slow, is created in the Multi-cloud 
 
 Now SRE is going to analyze and resolve the incident, by using the events, generated from Golden Signals of the Application Runtime.
 
-Here is the usecase.
+Here is the use case.
 
 <img src="images/30-response-2.png">
 
 ## Note
 
-This usecase is going to leverages the following objects for Application Monitoring and Incident management.
+This use case is going to leverages the following objects for Application Monitoring and Incident management.
 - Thresholds
 - Synthetic Tests
 - Runbooks
 - Event Policies
 - Incident Policies
 
-How to create and configure them is discused in another git repo. 
+How to create and configure them is discussed in another git repo. 
 
-https://github.com/GandhiCloudLab/mcm-monitoring-usecase-responsetime-configuration
+https://github.com/GandhiCloudLab/mcm-monitoring-use case-responsetime-configuration
 
 
 ## Abstract of the Incident and resolution steps
